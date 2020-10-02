@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "aRK6rcXj0KgXCWh9ZVe7u1COndK/eum6tKO2+e/Lqg1x15B8OL4kBTiRYG0hWEQB1xRqA6t6pN3t2DPgTDsvyw==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Custom\\ElasticObservableDoubleInsertws\\ElasticObservableDoubleInsertws\\ElasticObservableDoubleInsertws.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaib\\.nuget\\packages\\elasticsearch.net\\7.9.0\\elasticsearch.net.7.9.0.nupkg.sha512",
+    "C:\\Users\\jaib\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\jaib\\.nuget\\packages\\nest\\7.9.0\\nest.7.9.0.nupkg.sha512",
+    "C:\\Users\\jaib\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\jaib\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
